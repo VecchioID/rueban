@@ -1,5 +1,5 @@
 # RueBan
- RueBan is a python project build for various useful functions.
+:stars: RueBan is a python project build for various useful functions.
  
 ## Main features include:
 - utils
