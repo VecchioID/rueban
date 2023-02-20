@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # __author__ = 'Vecchio'
 '''
-训练深度学习模型的流程framework
+a demo file for setting a framework for supervised deep learning
 '''
 import argparse
 import torch
